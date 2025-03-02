@@ -26,3 +26,20 @@ Epoch: 1 | Iter: 50 | Loss: 2.123
 ...
 Epoch 10: Test accuracy 0.85
 ```
+
+## What to do in VSCode
+Open a new workspace window.
+Click Clone Repository
+Paste ```https://github.com/aaf091/ResNet_CIFAR10```
+Enter
+Open the train.py file
+Click on the run icon on the top right of the window
+
+## What to do otherwise
+Open terminal.
+Paste the following commands
+```
+git clone https://github.com/aaf091/ResNet_CIFAR10
+cd ResNet_CIFAR10
+python train.py
+```
