@@ -30,7 +30,9 @@ Epoch 10: Test accuracy 0.85
 ## What to do in VSCode
 Open a new workspace window.
 Click Clone Repository
-Paste ```sh https://github.com/aaf091/ResNet_CIFAR10```
+Paste ```
+https://github.com/aaf091/ResNet_CIFAR10
+```
 Enter
 Open the train.py file
 Click on the run icon on the top right of the window
