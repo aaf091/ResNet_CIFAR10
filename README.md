@@ -12,7 +12,7 @@ This repository implements a custom ResNet architecture using PyTorch with suppo
 
 ## Data Handling
 
-The data loader in **mnist.py** has been updated to load and preprocess the CIFAR-10 dataset (32×32 RGB images) using standard data augmentation (random cropping and horizontal flipping) and normalization.
+The data loader in **cifar_10.py** has been updated to load and preprocess the CIFAR-10 dataset (32×32 RGB images) using standard data augmentation (random cropping and horizontal flipping) and normalization.
 
 ## Training
 
@@ -25,3 +25,4 @@ Total parameters: 2,850,000
 Epoch: 1 | Iter: 50 | Loss: 2.123
 ...
 Epoch 10: Test accuracy 0.85
+```
