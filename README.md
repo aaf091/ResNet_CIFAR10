@@ -48,7 +48,7 @@ Click on the run icon on the top right of the window
 Open terminal.
 Paste the following commands
 ```
-git clone https://github.com/aaf091/ResNet_CIFAR10
+git clone https://github.com/aaf091/ResNet_CIFAR10.git
 cd ResNet_CIFAR10
 python train.py
 ```
