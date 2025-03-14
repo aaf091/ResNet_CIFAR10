@@ -1,6 +1,9 @@
 <h1 style="text-align: center;">PyTorch Custom ResNet for CIFAR-10</h1>
 This repository contains a submission for NYU ECE-GY 7123 Deep Learning S25 Kaggle Competition authored by Aadit Fadia, Riya Shah and Isha Math.
 
+## Overview
+We have proposed a Custom ResNet bottleneck model for CIFAR-10 classification, achieving 94.60% test accuracy under constrained parameters.
+
 ## Model Specifications
 - **Model**: Custom ResNet Bottleneck
 - **Number of Parameters**: 4,995,338
